@@ -1,8 +1,8 @@
 package Animals;
 
 public class Animal {
-    public String food;
-    public String location;
+    String food;
+    String location;
 
     public Animal() {
 

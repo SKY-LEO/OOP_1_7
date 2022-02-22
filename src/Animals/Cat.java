@@ -1,7 +1,7 @@
 package Animals;
 
 public class Cat extends Animal {
-    public String color;
+    String color;
 
     public Cat() {
 

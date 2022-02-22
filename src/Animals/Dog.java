@@ -1,7 +1,7 @@
 package Animals;
 
 public class Dog extends Animal {
-    public double weight;
+    double weight;
 
     public Dog() {
 
