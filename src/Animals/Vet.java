@@ -6,6 +6,6 @@ public class Vet {
     }
 
     public void treatAnimal(Animal animals) {
-        System.out.println("Корм: " + animals.food + " Местоположение: " + animals.location);
+        System.out.println(animals.toString() +"Корм: " + animals.food + " Местоположение: " + animals.location);
     }
 }

@@ -29,4 +29,9 @@ public class Horse extends Animal {
     public void eat() {
         System.out.println("Лошадь ест");
     }
+
+    @Override
+    public String toString() {
+        return "Лошадь ";
+    }
 }
